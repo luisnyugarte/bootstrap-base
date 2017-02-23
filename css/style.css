@@ -7,3 +7,26 @@ main{
 aside{
 	background: blue;
 }
+footer{
+	background: #cdcdcd; 
+}
+/*colores*/
+.col-blu{
+	color: blue;
+}
+.col-yel{
+	color: yellow;
+}
+.col-red{
+	color: red;
+}
+/*Background*/
+.bac-blu{
+	background: blue;
+}
+.bac-yel{
+	background: yellow;
+}
+.bac-red{
+	background: red;
+}
